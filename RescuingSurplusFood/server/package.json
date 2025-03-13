@@ -6,13 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "init-db": "node server/database/initDB.mjs"
-
   },
   "keywords": [],
   "author": "Taha Kamalisadeghian",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "faker": "^5.5.3",
+    "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
-  }
+  },
+  "description": ""
 }
