@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "init-db": "node backend/database/initDB.mjs"
-    
+    "init-db": "node server/database/initDB.mjs"
+
   },
   "keywords": [],
-  "author": "",
+  "author": "Taha Kamalisadeghian",
   "license": "ISC",
   "description": "",
   "dependencies": {
