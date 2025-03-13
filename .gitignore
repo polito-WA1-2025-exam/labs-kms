@@ -1,6 +1,3 @@
 directories.md
-/RescuingSurplusFood/src/node_modules
-RescuingSurplusFood\src\database\surplusfood.db
 /RescuingSurplusFood/server/node_modules
-RescuingSurplusFood/server/database/surplusfood.db
-RescuingSurplusFood/server/database/surplusfood.db
+/RescuingSurplusFood/server/database/surplusfood.db
